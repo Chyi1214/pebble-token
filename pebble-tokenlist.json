@@ -1,0 +1,21 @@
+{
+  "name": "Pebble Token List",
+  "logoURI": "https://chyi1214.github.io/pebble-token/logo.png",
+  "keywords": ["pebble", "tls", "stone", "taiwan"],
+  "timestamp": "2025-03-20T18:00:00+08:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xCbb93f3fEad6e5E14aa422B2B53313356e037A52",
+      "name": "Pebble",
+      "symbol": "PEB",
+      "decimals": 18,
+      "logoURI": "https://chyi1214.github.io/pebble-token/logo.png"
+    }
+  ]
+}
